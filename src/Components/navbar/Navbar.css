@@ -1,0 +1,22 @@
+.mainColor {
+  background-color: #131921;
+  color: lightgrey;
+}
+.icon > i {
+  font-size: 30px;
+}
+.badge {
+  background-color: #f08804;
+  color: #131921;
+  position: absolute;
+  right: 5px;
+  top: -11px;
+  font-size: 14px !important;
+}
+.storeColor {
+  color: lightgrey !important;
+}
+.navbarOptions > span {
+  font-size: 20px;
+  padding: 0 15px;
+}
